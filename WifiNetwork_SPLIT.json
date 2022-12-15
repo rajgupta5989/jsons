@@ -1,23 +1,23 @@
 {
-"id": "381967101317600010",
-"mode": "SPLIT",
-"networkType": "GUEST",
-"wifiDetails": [
-{
-"networkAdvertisementEnabled": true,
-"operatingFrequencyBand": "2.4",
-"passPhrase": "v2vNo0ratAMr+LIv+tcQ0txgPhVXitWdg",
-"securityMode": "WPA-WPA2-Personal",
-"ssid": "ssid",
-"ssidEnabled": true
-},
-{
-"networkAdvertisementEnabled": true,
-"operatingFrequencyBand": "5.0",
-"passPhrase": "v2vNo0ratAMr+LIv+tcQ0txgPhVXitWdg",
-"securityMode": "WPA-WPA2-Personal",
-"ssid": "ssid",
-"ssidEnabled": true
-}
-]
+    "id": "381967101317600010",
+    "mode": "SPLIT",
+    "networkType": "GUEST",
+    "wifiDetails": [
+        {
+            "networkAdvertisementEnabled": true,
+            "operatingFrequencyBand": "2.4",
+            "passPhrase": "v2vNo0ratAMr+LIv+tcQ0txgPhVXitWdg",
+            "securityMode": "WPA-WPA2-Personal",
+            "ssid": "ssid",
+            "ssidEnabled": true
+        },
+        {
+            "networkAdvertisementEnabled": true,
+            "operatingFrequencyBand": "5.0",
+            "passPhrase": "v2vNo0ratAMr+LIv+tcQ0txgPhVXitWdg",
+            "securityMode": "WPA-WPA2-Personal",
+            "ssid": "ssid",
+            "ssidEnabled": true
+        }
+    ]
 }
